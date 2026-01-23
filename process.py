@@ -2,7 +2,8 @@ import time
 import cv2
 import numpy as np
 import os
-
+import Week1_Capturing.Week1_captureSaveImg import CaptureSaveImgProcessor
+import Week2_Filtering.Week2_Ex1_Grayscale import GrayscaleProcessor
 
 class ImageProcessor:
     """
